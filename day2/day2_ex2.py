@@ -1,7 +1,3 @@
-import os
-
-import os
-
 with open("day2_input.txt") as f:
 	data = f.readlines()
 
